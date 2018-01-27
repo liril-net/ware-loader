@@ -22,6 +22,6 @@
   "homepage": "https://github.com/liril-net/ware-loader#readme",
   "dependencies": {
     "loader-utils": "^1.1.0",
-    "wrap-fn": "^0.1.5"
+    "wrapped": "^1.0.1"
   }
 }
