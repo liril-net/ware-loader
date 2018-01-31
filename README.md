@@ -78,5 +78,5 @@ import Doc from './doc.md';
 [npm]: https://img.shields.io/npm/v/ware-loader.svg
 [npm-url]: https://npmjs.com/package/ware-loader
 
-[deps]: https://david-dm.org/webpack/html-loader.svg
-[deps-url]: https://david-dm.org/webpack/html-loader
+[deps]: https://david-dm.org/liril-net/ware-loader/status.svg
+[deps-url]: https://david-dm.org/liril-net/ware-loader
