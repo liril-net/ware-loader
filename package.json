@@ -1,6 +1,6 @@
 {
   "name": "ware-loader",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "A loader for webpack that let you change your source in loader.",
   "main": "lib/index.js",
   "scripts": {},
