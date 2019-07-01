@@ -20,7 +20,7 @@ Use the loader either via your webpack config. Here is an example to parse markd
 
 **webpack.config.js**
 ```js
-const MarkdownIt = require('markdonw-it')
+const MarkdownIt = require('markdown-it')
 const md = new MarkdownIt()
 
 module.exports = {
